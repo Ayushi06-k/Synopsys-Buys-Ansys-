@@ -18,7 +18,6 @@ On **16 January 2024**, Synopsys agreed to acquire Ansys for approximately **$35
 * **Industrial Logic:** Chip design and physical simulation historically operated as separate workflows. As AI processors moved into advanced 3D packaging and hyperscalers began designing custom silicon, thermal, power, and electromagnetic effects directly governed chip performance. Combining Ansys's multiphysics solvers with Synopsys's EDA platform expands the total addressable market by ~1.5x to **$28–31 billion** and establishes an end-to-end silicon-to-systems offering.
 * **Structuring & Balance-Sheet Discipline:** Synopsys paired cash and stock with a hard **19.9999% share-issuance cap** to avoid a buyer shareholder vote, proactively offered targeted divestitures to clear global antitrust reviews, and raised **$14.3 billion** of investment-grade debt while committing to deleverage below **2.0x** within two years.
 
-> **Full Formatted PDF:** [Download / View Synopsys Buys Ansys ($35B) Write-Up](./Synopsys-Ansys-35B-MA-Writeup.pdf)
 
 ---
 
