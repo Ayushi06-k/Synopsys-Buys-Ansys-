@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F172A&center=true&vCenter=true&width=820&lines=Synopsys+Acquires+Ansys+(%2435.0+Billion)+%7C+M%26A+Deal+Write-Up;Semiconductor+EDA+%26+Simulation+%7C+15.4x+Revenue+%7C+19.9999%25+Share+Cap;US%2414.3B+IG+Debt+Financing+%7C+Global+Antitrust+Remedies+%7C+Post-Close+Execution)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2000&color=111827&center=true&vCenter=true&width=600&lines=Synopsys+Buys+Ansys+(%2435+Billion))](https://git.io/typing-svg)
 
 ![Sector](https://img.shields.io/badge/Sector-Semiconductor%20EDA%20%26%20Simulation-0f172a?style=flat-square)
 ![Deal Value](https://img.shields.io/badge/Enterprise%20Value-%2435.0%20Billion-1e40af?style=flat-square)
